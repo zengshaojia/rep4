@@ -1,0 +1,10 @@
+/bin/
+/target/
+*classes*
+*.log
+.factorypath
+.settings
+*.springBeans
+/.mvn/
+.mvn
+/springboot_mybatis.iml
